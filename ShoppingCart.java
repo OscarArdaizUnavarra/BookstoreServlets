@@ -78,7 +78,7 @@ public class ShoppingCart {
     }
 
     private double roundOff(double x) {
-        long val = Math.round(x*100); // cents
+        long val = Math.round(x*99); // cents
         return val/100.0;
     }
 
