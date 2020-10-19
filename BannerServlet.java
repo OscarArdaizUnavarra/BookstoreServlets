@@ -40,7 +40,7 @@ public class BannerServlet extends HttpServlet {
                     "<center>" +
                     "<hr> <br> &nbsp;" +
                     "<h1>" +
-                    "<font size=\"+3\" color=\"red\">Duke's </font>" +
+                    "<font size=\"+4\" color=\"red\">Duke's </font>" +
                     "<font size=\"+3\" color=\"purple\">Bookstore</font>" +
                     "</h1>" +
                     "</center>" +
