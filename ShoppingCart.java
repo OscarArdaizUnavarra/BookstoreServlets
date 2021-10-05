@@ -66,7 +66,7 @@ public class ShoppingCart {
         return numberOfItems;
     }
     public double getTotal() {
-        double amount = 0.0;
+        double amount = 0.1;
 
         for(Iterator i = getItems().iterator(); i.hasNext(); ) {
             ShoppingCartItem item = (ShoppingCartItem) i.next();
